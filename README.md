@@ -5,7 +5,7 @@
 <tr>
 <td width="60%" valign="top" style="border:none;">
 
-### 🌷 About me
+<h3>🌷About me</h3>
 
 I’m a beginner, learning by building and revisiting ideas at my own pace.🌱
 I enjoy working with deep learning and computer vision, and I’ve spent time building models from scratch and exploring explainable AI.
@@ -21,10 +21,10 @@ This space will evolve as I do.🌸
 <td width="40%" valign="top" style="border:none;">
   
 ### 🛠 Tech stack
-**Languages**  
+<p><strong>Languages</strong></p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,sql&theme=light" />
 
-**Frameworks**  
+<p><strong>Frameworks</strong></p>  
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy&theme=light" />
 
 **MLOps & Tools**  
@@ -51,7 +51,7 @@ This space will evolve as I do.🌸
 </p>
 
 <details>
-  <summary>📈 curious about my GitHub rhythm?</summary>
+  <summary>📈 GitHub rythm: evolving quietly as I build</summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=HarshitaJ02&show_icons=true&theme=rose_pine&hide_border=true" />
   </p>
